@@ -1,5 +1,5 @@
 NewsPaper is Python project that is used to scrapy key elements of blog posts (author, text, publication date, and keywords). 
-It is especially useful for capturing keywords in the text for SEO or marketing.
+It is especially useful for find keywords in the text for SEO or marketing.
 
 Requirements:
 - Python 3 (I tested with version 3.6)
