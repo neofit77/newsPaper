@@ -10,4 +10,4 @@ Instructions:
 - In the csvInput folder, remember the csv file with internet URLs of the articles you want to process (an example of an input 
   file is inputFile.csv in the csvInput folder)
 - Open the terminal, go to newsPaper (the main folder)
-- Run command "scrapy crawl news -o <name_output_file_what_you_want.csv>"(or other extensions: json, xlsx)
+- Run command "scrapy crawl news -o <name_output_file_what_you_want.csv>"(or other extensions: json, xlm)
